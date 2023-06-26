@@ -1,0 +1,2 @@
+# Run xeyes every minute
+*/1 * * * * root DISPLAY=:0.0 /usr/bin/xeyes &
